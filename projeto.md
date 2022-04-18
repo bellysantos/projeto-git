@@ -1,1 +1,1 @@
-Projeto será deenvolvido aqui.
+Projeto será desenvolvido aqui.
